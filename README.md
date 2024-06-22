@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FDF4F5&height=180&section=header&text=welcome%20my%20github!💌&fontSize=50&textY=10)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F3D7CA&height=180&section=header&text=welcome%20my%20github!💌&fontSize=50&textY=10)
 
 # Hello, I'm eunjeong! 🌱
 
