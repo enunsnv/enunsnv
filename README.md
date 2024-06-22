@@ -1,5 +1,7 @@
 # Hello, I'm eunjeong! 🌱
 
+
+
 ## 🚀 About Me
 
 - 👀 I’m interested in ...
@@ -7,6 +9,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enunsnv&layout=compact)](https://github.com/enunsnv/github-readme-stats)
 
 ## 🛠️ Used Skills
 
