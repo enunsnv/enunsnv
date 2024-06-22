@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enunsnv&layout=compact)](https://github.com/enunsnv/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enunsnv&layout=compact)]
 
 - 👀 I’m interested in ...
 - 📔 I’m currently learning ...
