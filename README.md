@@ -1,22 +1,11 @@
-# Hello, I'm [Your Name]!
-## 🌱 서은정 eunjeong seo
-
+# Hello, I'm eunjeong! 🌱
 
 ## 🚀 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 - 👀 I’m interested in ...
 - 📔 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-
-<!---
-enunsnv/enunsnv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 
 
 I'm a software developer based in [Your Location]. I have a passion for coding and love to create new things.
@@ -45,5 +34,12 @@ I'm a software developer based in [Your Location]. I have a passion for coding a
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/>
 </div>
+
+
+
+<!---
+enunsnv/enunsnv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 
