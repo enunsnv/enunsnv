@@ -1,20 +1,10 @@
 # Hello, I'm eunjeong! 🌱
 
 ## 🚀 About Me
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 - 👀 I’m interested in ...
 - 📔 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-
-I'm a software developer based in [Your Location]. I have a passion for coding and love to create new things.
-
-- 🌱 I’m currently learning **[Technology or Language]**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://yourportfolio.com)
-- 📫 How to reach me **your.email@example.com**
-- 📄 Know about my experiences [My Resume](https://yourresume.com)
-
 
 ## 🛠️ Used Skills
 
@@ -40,6 +30,11 @@ I'm a software developer based in [Your Location]. I have a passion for coding a
 <!---
 enunsnv/enunsnv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+- 🌱 I’m currently learning **[Technology or Language]**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://yourportfolio.com)
+- 📫 How to reach me **your.email@example.com**
+- 📄 Know about my experiences [My Resume](https://yourresume.com)
+
 --->
 
 
