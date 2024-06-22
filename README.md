@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## 🛠️ Languages and Tools:
+## 🛠️ Used Skills
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
