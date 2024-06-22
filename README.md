@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/>
