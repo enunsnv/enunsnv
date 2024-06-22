@@ -11,7 +11,7 @@ enunsnv/enunsnv is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats]
+
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
@@ -31,4 +31,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=enunsnv&show_icons=true&theme=radical
