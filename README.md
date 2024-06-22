@@ -7,7 +7,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-### Project 1: [Repository Name](https://github.com/yourusername/repositoryname)
 
 ## 🛠️ Used Skills
 
