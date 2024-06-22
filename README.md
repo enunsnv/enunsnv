@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enunsnv&layout=compact)](https://github.com/enunsnv/github-readme-stats)
 
-## 🛠️ Used Skills
+## 🛠️ Skills
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
