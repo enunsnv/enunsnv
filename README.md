@@ -1,5 +1,4 @@
 
-<div align=center>
   
 # Hello, I'm eunjeong! 🌱
 
@@ -32,7 +31,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/>
 </div>
 
-</div>
+
 
 
 <!---
