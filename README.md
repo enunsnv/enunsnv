@@ -4,8 +4,6 @@
 
 ## 🚀 About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enunsnv&layout=compact)
-
 - 👀 I’m interested in ...
 - 📔 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -32,7 +30,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/>
 </div>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enunsnv&layout=compact)
 
 <!---
 enunsnv/enunsnv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
