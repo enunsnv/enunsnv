@@ -11,6 +11,17 @@ enunsnv/enunsnv is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+# Hello, I'm [Your Name]!
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+
+## 🚀 About Me
+I'm a software developer based in [Your Location]. I have a passion for coding and love to create new things.
+
+- 🌱 I’m currently learning **[Technology or Language]**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://yourportfolio.com)
+- 📫 How to reach me **your.email@example.com**
+- 📄 Know about my experiences [My Resume](https://yourresume.com)
 
 
 ## 🛠️ Used Skills
