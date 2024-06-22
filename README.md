@@ -1,10 +1,8 @@
 
 <div align=center>
+  
 # Hello, I'm eunjeong! 🌱
 
-
-
-## 🚀 About Me
 
 - 👀 I’m interested in ...
 - 📔 I’m currently learning ...
