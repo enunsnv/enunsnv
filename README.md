@@ -5,9 +5,9 @@
 ## 🚀 About Me
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <div>
+
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enunsnv&layout=compact)](https://github.com/enunsnv/github-readme-stats)
-  </div>
+
 
 
 </div>
