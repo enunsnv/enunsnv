@@ -12,7 +12,6 @@
 
 ### 🛠️ Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enunsnv&layout=compact)
 
 <div style="display: flex; gap: 10px; align-items: center;">  
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
@@ -25,6 +24,7 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"/>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enunsnv&layout=compact)
 
 
 
