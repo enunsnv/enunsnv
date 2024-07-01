@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7"/>
 </div>
 
-### 📔 Languages
+### 🩰 Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enunsnv&layout=compact)
 
