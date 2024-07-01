@@ -1,4 +1,4 @@
-📌## Hello, I'm eunjeong! 🌱
+## Hello, I'm eunjeong! 🌱
 
 - 🌳 I’m passionate about creating innovative services that contribute to a better world for all. 
 - 📔 I’m currently learning React and deepening my knowledge in front-end development!
