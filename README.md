@@ -21,7 +21,6 @@
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"/>
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enunsnv&layout=compact)
