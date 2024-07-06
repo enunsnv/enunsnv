@@ -21,7 +21,7 @@
 
 ### 🔎 Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enunsnv&layout=compact&exclude_repo=Curricomp)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enunsnv&layout=compact&exclude_repo=2023-2-web-programming-CurriComp)
 
 
 <!---
