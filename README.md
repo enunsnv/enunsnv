@@ -1,9 +1,4 @@
-## Hello, I'm eunjeong! 🌱
 
-- 🌳 I’m passionate about creating innovative services that contribute to a better world for all. 
-- 📔 I’m currently learning React and deepening my knowledge in front-end development!
-- 💞️ I’m looking to collaborate on open-source projects that drive social impact.
-- 📩 seoej0315@gmail.com
 
 <div>
 
